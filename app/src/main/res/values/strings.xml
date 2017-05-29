@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">IAPPOC</string>
+    <string name="content_description_app_loading_image">App Loading Image</string>
+    <string name="content_desc_free_vs_premium_indicator">Free or Premium Image Indicator</string>
+    <string name="content_desc_gas_gauge_indicator">Gas Gauge Indicator</string>
+    <string name="content_description_title_image">80\'s Video Game Style Car Logo</string>
+
+</resources>
